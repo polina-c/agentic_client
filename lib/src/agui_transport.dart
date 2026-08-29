@@ -14,6 +14,7 @@ library;
 import 'dart:async';
 import 'dart:convert';
 
+import 'package:a2ui_core/a2ui_core.dart' show A2uiMessage;
 import 'package:ag_ui/ag_ui.dart' as agui;
 import 'package:flutter/foundation.dart' show ValueListenable, ValueNotifier, debugPrint;
 import 'package:genai_primitives/genai_primitives.dart' as gp;

@@ -1,6 +1,6 @@
 name: agentic_client
 description: "Dart chat client for rendering A2UI widgets over AGUI protocol"
-version: 0.0.13
+version: 1.0.0
 homepage: https://github.com/wal33d006/agentic_client
 
 environment:
@@ -8,16 +8,17 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  ag_ui: ^0.1.0
+  a2ui_core: 0.1.1
+  ag_ui: 0.3.0
   flutter:
     sdk: flutter
-  genai_primitives: ^0.2.3
-  genui: ^0.9.2
+  genai_primitives: 0.2.4
+  genui: 0.10.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+  flutter_lints: 6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
