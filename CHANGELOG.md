@@ -1,3 +1,7 @@
+## 1.0.0
+
+* Stable version
+
 ## 0.0.13
 
 * Add custom event for approval step
