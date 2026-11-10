@@ -59,7 +59,7 @@ Add the package to your app's `pubspec.yaml`:
 ```yaml
 dependencies:
   agentic_client: ^0.0.1
-  a2ui_flutter: ^0.1.0
+  a2ui_flutter: ^0.2.0
 ```
 
 ## Usage
